@@ -1,2 +1,2 @@
 # SurvivingGothanNight
-It's my first game project. I used C# and Unity.
+### This is my first game project, developed using C# and Unity, and completed entirely by myself.
